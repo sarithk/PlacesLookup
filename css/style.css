@@ -12,3 +12,12 @@ h3{
 hr{
     color: #FC4A1A;
 }
+
+.bgimg {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    z-index:-1;
+    opacity:1;
+}
